@@ -40,7 +40,6 @@ This project is intended as a learning and portfolio exercise for web developmen
 ---
 
 ## Project Structure
-
 littlelemon/
 ├─ littlelemon/ # Main project folder
 │ ├─ settings.py # Django project settings
