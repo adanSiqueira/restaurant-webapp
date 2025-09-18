@@ -1,0 +1,19 @@
+# Project-specific files
+MenuItems.txt
+txt-to-sql-csv.script.py
+db.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment / editor files
+.env
+*.sqlite3-journal
+*.log
+*.pot
+*.py~ 
+
+# Virtual environment (if you create one inside project)
+venv/
+.env/
