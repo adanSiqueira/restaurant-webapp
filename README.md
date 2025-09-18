@@ -1,10 +1,21 @@
-# Little Lemon - Django Restaurant Project
+<h1 align="center">🍋 Little Lemon - Django Restaurant Project</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Django-5.x-green?logo=django&logoColor=white" alt="Django Badge"/>
+  <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white" alt="CSS Badge"/>
+  <img src="https://img.shields.io/badge/SQLite-Database-lightgrey?logo=sqlite&logoColor=white" alt="SQLite Badge"/>
+</p>
+
+---
 
 ## Overview
 
 **Little Lemon** is a demonstration web application built with **Django**, showcasing the creation of a simple restaurant website.  
 It covers **basic CRUD operations**, working with **models, views, and templates**, and demonstrates the use of **media files, static assets, and forms**.  
 This project is intended as a learning and portfolio exercise for web development with **Python/Django** and **basic front-end tools** (HTML, CSS).
+
 
 ---
 
@@ -40,6 +51,7 @@ This project is intended as a learning and portfolio exercise for web developmen
 ---
 
 ## Project Structure
+```
 littlelemon/
 ├─ littlelemon/ # Main project folder
 │ ├─ settings.py # Django project settings
@@ -56,7 +68,7 @@ littlelemon/
 ├─ media/ # Uploaded images (menu items)
 |
 ├─ manage.py # Django management script
-
+```
 ---
 
 ## Installation and Setup
